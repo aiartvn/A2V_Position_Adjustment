@@ -17,7 +17,7 @@ A custom node for ComfyUI that provides advanced image positioning and adjustmen
 1. Clone this repository into your ComfyUI custom nodes folder:
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/yourusername/ComfyUI-A2V-Position-Adjustment.git
+git clone https://github.com/aiartvn/A2V_Position_Adjustment
 ```
 
 2. Install the required dependencies:
